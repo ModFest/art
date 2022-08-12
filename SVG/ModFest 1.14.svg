@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <filter id="drop-shadow-11" filterUnits="userSpaceOnUse">
+      <feOffset dx="11.73" dy="11.73"/>
+      <feGaussianBlur result="blur" stdDeviation="16.76"/>
+      <feFlood flood-color="#000" flood-opacity=".9"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" style="fill: #1c133a;"/>
+  <g style="filter: url(#drop-shadow-11);">
+    <g>
+      <text transform="translate(59.18 119.73)" style="fill: #fff; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 49.69px;"><tspan x="0" y="0">1.14</tspan></text>
+      <rect x="43.39" y="43.39" width="113.21" height="113.21" rx="16.18" ry="16.18" transform="translate(-41.42 100) rotate(-45)" style="fill: none; stroke: #945cff; stroke-miterlimit: 10; stroke-width: 13.77px;"/>
+    </g>
+  </g>
+</svg>

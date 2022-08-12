@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect x="0" y="0" width="200" height="200" style="fill: #1a263d;"/>
+  <g>
+    <path d="M114.24,79.91l-34.33,34.33c-5.4,5.4-14.18,5.4-19.58,0L26,79.91c-5.4-5.4-5.4-14.18,0-19.58L60.33,26c5.4-5.4,14.18-5.4,19.58,0l34.33,34.33c5.4,5.4,5.4,14.18,0,19.58Z" style="fill: #94c0ff;"/>
+    <rect x="91.76" y="91.76" width="76.24" height="76.24" rx="13.84" ry="13.84" transform="translate(-53.8 129.88) rotate(-45)" style="fill: #8ce8f4;"/>
+    <line x1="100.26" y1="82.29" x2="117.79" y2="99.82" style="fill: none; stroke: #1a263d; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 8.27px;"/>
+    <line x1="82.29" y1="100.26" x2="99.82" y2="117.79" style="fill: none; stroke: #1a263d; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 8.27px;"/>
+    <text transform="translate(55.65 84.28)" style="fill: #1a263d; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 47.51px;"><tspan x="0" y="0">2</tspan></text>
+    <text transform="translate(115.41 147.69)" style="fill: #1a263d; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 47.51px;"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>

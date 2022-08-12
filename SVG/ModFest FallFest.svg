@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="11.73" dy="11.73"/>
+      <feGaussianBlur result="blur" stdDeviation="16.76"/>
+      <feFlood flood-color="#000" flood-opacity=".9"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="55.86" y1="147.8" x2="144.14" y2="52.2" gradientTransform="translate(100 -41.42) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9826"/>
+      <stop offset=".76" stop-color="#ff5615"/>
+      <stop offset="1" stop-color="#ff5b16"/>
+      <stop offset="1" stop-color="#ff5b16"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" style="fill: #160e0b;"/>
+  <g style="filter: url(#drop-shadow-8);">
+    <rect x="43.39" y="43.39" width="113.21" height="113.21" rx="16.18" ry="16.18" transform="translate(-41.42 100) rotate(-45)" style="fill: none; stroke: url(#linear-gradient); stroke-miterlimit: 10; stroke-width: 13.77px;"/>
+  </g>
+  <g>
+    <g>
+      <polygon points="83.35 66.79 66.34 88.66 91.91 91.99 83.35 66.79" style="fill: #fff;"/>
+      <polygon points="116.65 66.79 133.66 88.66 108.09 91.99 116.65 66.79" style="fill: #fff;"/>
+    </g>
+    <polygon points="100 109.44 108.09 97.69 91.91 97.69 100 109.44" style="fill: #fff;"/>
+    <path d="M140.79,111.09c-1.36,11.88-17.73,21.38-38.2,22.13v-9.47h-14.1v8.56c-16.08-2.73-28.06-11.06-29.28-21.11,5.12,1.13,10.7,2.05,16.63,2.72v8.26h9.34v-7.42c4.71,.31,9.59,.48,14.58,.48,4.58,0,9.06-.14,13.4-.4v7.35h9.34v-8.13c6.56-.7,12.71-1.71,18.29-2.96Z" style="fill: #fff;"/>
+  </g>
+</svg>
