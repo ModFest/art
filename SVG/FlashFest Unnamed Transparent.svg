@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <path d="M158.61,101.45L101.44,158.62C95.12,164.93 84.88,164.93 78.56,158.62L21.39,101.45C15.07,95.13 15.07,84.88 21.39,78.56L78.56,21.39C84.88,15.07 95.12,15.07 101.44,21.39L158.61,78.56C164.93,84.88 164.93,95.13 158.61,101.45Z" style="fill:rgb(233,192,97);fill-rule:nonzero;"/>
+    <g transform="matrix(0.824926,0,0,0.824926,2.32439,44.9681)">
+        <g transform="matrix(116.374,0,0,116.374,121.819,97.4162)">
+        </g>
+        <text x="90.747px" y="97.416px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:116.374px;fill:rgb(23,29,35);">!</text>
+    </g>
+    <path d="M158.61,101.45L101.44,158.62C95.12,164.93 84.88,164.93 78.56,158.62L21.39,101.45C15.07,95.13 15.07,84.88 21.39,78.56L78.56,21.39C84.88,15.07 95.12,15.07 101.44,21.39L158.61,78.56C164.93,84.88 164.93,95.13 158.61,101.45Z" style="fill:none;fill-rule:nonzero;stroke:rgb(23,29,35);stroke-width:13.77px;"/>
+</svg>
