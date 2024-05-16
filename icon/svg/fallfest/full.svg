@@ -1,30 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
-  <defs>
-    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
-      <feOffset dx="11.73" dy="11.73"/>
-      <feGaussianBlur result="blur" stdDeviation="16.76"/>
-      <feFlood flood-color="#000" flood-opacity=".9"/>
-      <feComposite in2="blur" operator="in"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <linearGradient id="linear-gradient" x1="55.86" y1="147.8" x2="144.14" y2="52.2" gradientTransform="translate(100 -41.42) rotate(45)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ff9826"/>
-      <stop offset=".76" stop-color="#ff5615"/>
-      <stop offset="1" stop-color="#ff5b16"/>
-      <stop offset="1" stop-color="#ff5b16"/>
-    </linearGradient>
-  </defs>
-  <rect width="200" height="200" style="fill: #160e0b;"/>
-  <g style="filter: url(#drop-shadow-8);">
-    <rect x="43.39" y="43.39" width="113.21" height="113.21" rx="16.18" ry="16.18" transform="translate(-41.42 100) rotate(-45)" style="fill: none; stroke: url(#linear-gradient); stroke-miterlimit: 10; stroke-width: 13.77px;"/>
-  </g>
-  <g>
-    <g>
-      <polygon points="83.35 66.79 66.34 88.66 91.91 91.99 83.35 66.79" style="fill: #fff;"/>
-      <polygon points="116.65 66.79 133.66 88.66 108.09 91.99 116.65 66.79" style="fill: #fff;"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,0,-1860)">
+        <g transform="matrix(1,0,0,1,3,0)">
+            <g id="fallfest-full" serif:id="fallfest/full" transform="matrix(1,0,0,1,-3,1860)">
+                <rect x="0" y="0" width="200" height="200" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="200" height="200"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <rect x="0" y="0" width="200" height="200" style="fill:rgb(22,14,11);"/>
+                    <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-41.42,100)">
+                        <path d="M156.6,59.57L156.6,140.42C156.6,149.35 149.35,156.6 140.42,156.6L59.57,156.6C50.64,156.6 43.39,149.35 43.39,140.42L43.39,59.57C43.39,50.64 50.64,43.39 59.57,43.39L140.42,43.39C149.35,43.39 156.6,50.64 156.6,59.57Z" style="fill:none;stroke:url(#_Linear2);stroke-width:13.77px;"/>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M83.35,66.79L66.34,88.66L91.91,91.99L83.35,66.79Z" style="fill:white;fill-rule:nonzero;"/>
+                            <path d="M116.65,66.79L133.66,88.66L108.09,91.99L116.65,66.79Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <path d="M100,109.44L108.09,97.69L91.91,97.69L100,109.44Z" style="fill:white;fill-rule:nonzero;"/>
+                        <path d="M140.79,111.09C139.43,122.97 123.06,132.47 102.59,133.22L102.59,123.75L88.49,123.75L88.49,132.31C72.41,129.58 60.43,121.25 59.21,111.2C64.33,112.33 69.91,113.25 75.84,113.92L75.84,122.18L85.18,122.18L85.18,114.76C89.89,115.07 94.77,115.24 99.76,115.24C104.34,115.24 108.82,115.1 113.16,114.84L113.16,122.19L122.5,122.19L122.5,114.06C129.06,113.36 135.21,112.35 140.79,111.1L140.79,111.09Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
-    <polygon points="100 109.44 108.09 97.69 91.91 97.69 100 109.44" style="fill: #fff;"/>
-    <path d="M140.79,111.09c-1.36,11.88-17.73,21.38-38.2,22.13v-9.47h-14.1v8.56c-16.08-2.73-28.06-11.06-29.28-21.11,5.12,1.13,10.7,2.05,16.63,2.72v8.26h9.34v-7.42c4.71,.31,9.59,.48,14.58,.48,4.58,0,9.06-.14,13.4-.4v7.35h9.34v-8.13c6.56-.7,12.71-1.71,18.29-2.96Z" style="fill: #fff;"/>
-  </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(130.023,-5.17602,5.17602,130.023,34.9886,102.589)"><stop offset="0" style="stop-color:rgb(255,152,38);stop-opacity:1"/><stop offset="0.76" style="stop-color:rgb(255,86,21);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,91,22);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,91,22);stop-opacity:1"/></linearGradient>
+    </defs>
 </svg>

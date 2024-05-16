@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-430,-1870)">
+        <g transform="matrix(1,0,0,1,3,0)">
+            <g id="fallfest-minimal" serif:id="fallfest/minimal" transform="matrix(0.9,0,0,0.9,427,1870)">
+                <rect x="0" y="0" width="200" height="200" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="200" height="200"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(1.11111,0,0,1.11111,-1.01252e-13,-0.00138889)">
+                        <path d="M158.61,101.45L101.44,158.62C95.12,164.93 84.88,164.93 78.56,158.62L21.39,101.45C15.07,95.13 15.07,84.88 21.39,78.56L78.56,21.39C84.88,15.07 95.12,15.07 101.44,21.39L158.61,78.56C164.93,84.88 164.93,95.13 158.61,101.45Z" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear2);stroke-width:13.77px;"/>
+                    </g>
+                    <g transform="matrix(1.11111,0,0,1.11111,-11.1625,-11.1111)">
+                        <g transform="matrix(1,0,0,1,10.0462,9.99875)">
+                            <path d="M73.35,56.79L56.34,78.66L81.91,81.99L73.35,56.79Z" style="fill:white;fill-rule:nonzero;"/>
+                            <path d="M106.65,56.79L123.66,78.66L98.09,81.99L106.65,56.79Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,10.0462,9.99875)">
+                            <path d="M90,99.44L98.09,87.69L81.91,87.69L90,99.44Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,10.0462,9.99875)">
+                            <path d="M130.79,101.09C129.43,112.97 113.06,122.47 92.59,123.22L92.59,113.75L78.49,113.75L78.49,122.31C62.41,119.58 50.43,111.25 49.21,101.2C54.33,102.33 59.91,103.25 65.84,103.92L65.84,112.18L75.18,112.18L75.18,104.76C79.89,105.07 84.77,105.24 89.76,105.24C94.34,105.24 98.82,105.1 103.16,104.84L103.16,112.19L112.5,112.19L112.5,104.06C119.06,103.36 125.21,102.35 130.79,101.1L130.79,101.09Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(88.28,-95.61,95.61,88.28,45.86,137.81)"><stop offset="0" style="stop-color:rgb(255,152,38);stop-opacity:1"/><stop offset="0.76" style="stop-color:rgb(255,86,21);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,91,22);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,91,22);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
