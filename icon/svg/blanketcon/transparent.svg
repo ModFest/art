@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
-  <path d="M163.64,106.35l-8.76,8.78-9.7-9.7c-2.7-2.69-7.06-2.69-9.76,0-2.69,2.69-2.69,7.06,0,9.76l9.7,9.68-20.23,20.25-9.7-9.7c-2.69-2.69-7.06-2.69-9.76,0-2.69,2.7-2.69,7.06,0,9.76l9.7,9.68-8.78,8.78c-9.01,9.01-23.67,9-32.68,0L16.36,106.35c-9.01-9.01-9.01-23.69,0-32.7L73.66,16.35c9.01-9.01,23.67-9,32.68,.02l57.3,57.29c9.01,9.01,9.01,23.69,0,32.7Z" style="fill: #94c0ff;"/>
-  <text transform="translate(64.42 120.9)" style="fill: #1a263d; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 79.19px;"><tspan x="0" y="0">B</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-220,-3320)">
+        <g transform="matrix(1,0,0,1,3,3154.98)">
+            <g id="blanketcon-transparent" serif:id="blanketcon/transparent" transform="matrix(0.9,0,0,0.9,217,165.018)">
+                <rect x="0" y="0" width="200" height="200" style="fill:none;"/>
+                <g transform="matrix(1.11111,0,0,1.11111,0.00555556,0.00416898)">
+                    <path d="M163.64,106.35L154.88,115.13L145.18,105.43C142.48,102.74 138.12,102.74 135.42,105.43C132.73,108.12 132.73,112.49 135.42,115.19L145.12,124.87L124.89,145.12L115.19,135.42C112.5,132.73 108.13,132.73 105.43,135.42C102.74,138.12 102.74,142.48 105.43,145.18L115.13,154.86L106.35,163.64C97.34,172.65 82.68,172.64 73.67,163.64L16.36,106.35C7.35,97.34 7.35,82.66 16.36,73.65L73.66,16.35C82.67,7.34 97.33,7.35 106.34,16.37L163.64,73.66C172.65,82.67 172.65,97.35 163.64,106.36L163.64,106.35Z" style="fill:rgb(148,192,255);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1.11111,0,0,1.11111,71.5833,134.338)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:79.19px;fill:rgb(26,38,61);">B</text>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

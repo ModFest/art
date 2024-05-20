@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect x="0" y="0" width="200" height="200" style="fill: #94c0ff;"/>
-  <path d="M173.64,116.35l-8.76,8.78-9.7-9.7c-2.7-2.69-7.06-2.69-9.76,0-2.69,2.69-2.69,7.06,0,9.76l9.7,9.68-20.23,20.25-9.7-9.7c-2.69-2.69-7.06-2.69-9.76,0-2.69,2.7-2.69,7.06,0,9.76l9.7,9.68-8.78,8.78c-9.01,9.01-23.67,9-32.68,0L26.36,116.35c-9.01-9.01-9.01-23.69,0-32.7L83.66,26.35c9.01-9.01,23.67-9,32.68,.02l57.3,57.29c9.01,9.01,9.01,23.69,0,32.7Z" style="fill: #1a263d;"/>
-  <text transform="translate(74.42 130.9)" style="fill: #94c0ff; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 79.19px;"><tspan x="0" y="0">B</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-3100)">
+        <g transform="matrix(1,0,0,1,3,3154.98)">
+            <g id="blanketcon-full-light" serif:id="blanketcon/full-light" transform="matrix(1,0,0,1,-3,-54.9818)">
+                <rect x="0" y="0" width="200" height="200" style="fill:none;"/>
+                <rect x="0" y="0" width="200" height="200" style="fill:rgb(148,192,255);"/>
+                <path d="M173.64,116.35L164.88,125.13L155.18,115.43C152.48,112.74 148.12,112.74 145.42,115.43C142.73,118.12 142.73,122.49 145.42,125.19L155.12,134.87L134.89,155.12L125.19,145.42C122.5,142.73 118.13,142.73 115.43,145.42C112.74,148.12 112.74,152.48 115.43,155.18L125.13,164.86L116.35,173.64C107.34,182.65 92.68,182.64 83.67,173.64L26.36,116.35C17.35,107.34 17.35,92.66 26.36,83.65L83.66,26.35C92.67,17.34 107.33,17.35 116.34,26.37L173.64,83.66C182.65,92.67 182.65,107.35 173.64,116.36L173.64,116.35Z" style="fill:rgb(26,38,61);fill-rule:nonzero;"/>
+                <g transform="matrix(1,0,0,1,74.42,130.9)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:79.19px;fill:rgb(148,192,255);">B</text>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

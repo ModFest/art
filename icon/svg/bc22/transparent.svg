@@ -1,7 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
-  <path d="M104.25,69.91l-5.26,5.26-5.81-5.81c-1.61-1.61-4.23-1.61-5.84,0-1.62,1.62-1.62,4.23,0,5.85l5.8,5.81-12.12,12.12-5.81-5.81c-1.61-1.61-4.23-1.61-5.84,0-1.62,1.62-1.62,4.23,0,5.85l5.8,5.8-5.26,5.26c-5.4,5.4-14.18,5.4-19.58,0L16,69.91c-5.4-5.4-5.4-14.18,0-19.58L50.33,16c5.4-5.4,14.18-5.4,19.58,0l34.33,34.33c5.4,5.4,5.41,14.18,.01,19.58Z" style="fill: #94c0ff;"/>
-  <path d="M164,129.67l-34.33,34.33c-5.4,5.4-14.18,5.4-19.58,0l-34.33-34.33c-5.4-5.4-5.4-14.18,0-19.58l5.26-5.26,5.88,5.89c.81,.8,1.87,1.21,2.93,1.21s2.11-.41,2.92-1.21c1.61-1.62,1.61-4.24,0-5.85l-5.88-5.88,12.12-12.13,5.88,5.89c.81,.8,1.87,1.21,2.93,1.21s2.11-.41,2.92-1.21c1.61-1.62,1.61-4.24,0-5.85l-5.88-5.88,5.25-5.26c5.4-5.4,14.18-5.4,19.58,0l34.33,34.33c5.4,5.4,5.4,14.18,0,19.58Z" style="fill: #8ce8f4;"/>
-  <text transform="translate(45.65 74.28)" style="fill: #1a263d; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 47.51px;"><tspan x="0" y="0">2</tspan></text>
-  <text transform="translate(105.41 137.69)" style="fill: #1a263d; font-family: FredokaOne-Regular, &apos;Fredoka One&apos;; font-size: 47.51px;"><tspan x="0" y="0">2</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-230,-2820)">
+        <g transform="matrix(1,0,0,1,0,2600)">
+            <g id="bc22-transparent" serif:id="bc22/transparent" transform="matrix(1.07693,0,0,1.07693,-17.6946,-15.337)">
+                <rect x="230" y="218.525" width="167.141" height="167.141" style="fill:none;"/>
+                <g transform="matrix(0.928563,0,0,0.928563,230,218.525)">
+                    <path d="M104.25,69.91L98.99,75.17L93.18,69.36C91.57,67.75 88.95,67.75 87.34,69.36C85.72,70.98 85.72,73.59 87.34,75.21L93.14,81.02L81.02,93.14L75.21,87.33C73.6,85.72 70.98,85.72 69.37,87.33C67.75,88.95 67.75,91.56 69.37,93.18L75.17,98.98L69.91,104.24C64.51,109.64 55.73,109.64 50.33,104.24L16,69.91C10.6,64.51 10.6,55.73 16,50.33L50.33,16C55.73,10.6 64.51,10.6 69.91,16L104.24,50.33C109.64,55.73 109.65,64.51 104.25,69.91Z" style="fill:rgb(148,192,255);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.928563,0,0,0.928563,230,218.525)">
+                    <path d="M164,129.67L129.67,164C124.27,169.4 115.49,169.4 110.09,164L75.76,129.67C70.36,124.27 70.36,115.49 75.76,110.09L81.02,104.83L86.9,110.72C87.71,111.52 88.77,111.93 89.83,111.93C90.89,111.93 91.94,111.52 92.75,110.72C94.36,109.1 94.36,106.48 92.75,104.87L86.87,98.99L98.99,86.86L104.87,92.75C105.68,93.55 106.74,93.96 107.8,93.96C108.86,93.96 109.91,93.55 110.72,92.75C112.33,91.13 112.33,88.51 110.72,86.9L104.84,81.02L110.09,75.76C115.49,70.36 124.27,70.36 129.67,75.76L164,110.09C169.4,115.49 169.4,124.27 164,129.67Z" style="fill:rgb(140,232,244);fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(0.928563,0,0,0.928563,272.389,287.499)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
+                </g>
+                <g transform="matrix(0.928563,0,0,0.928563,327.88,346.379)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
