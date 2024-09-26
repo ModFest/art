@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
-    <g transform="matrix(1,0,0,1,0,890)">
-        <g transform="matrix(1,0,0,1,0,-1100)">
-            <rect id="bc22-full" serif:id="bc22/full" x="0" y="210" width="200" height="200" style="fill:none;"/>
-            <g id="bc22-full1" serif:id="bc22/full">
-                <g transform="matrix(1,0,0,1,0,210)">
-                    <rect x="0" y="0" width="200" height="200" style="fill:rgb(26,38,61);"/>
+    <g transform="matrix(1,0,0,1,0,-210)">
+        <rect id="bc22-full" serif:id="bc22/full" x="0" y="210" width="200" height="200" style="fill:none;"/>
+        <g id="bc22-full1" serif:id="bc22/full">
+            <g transform="matrix(1,0,0,1,0,210)">
+                <rect x="0" y="0" width="200" height="200" style="fill:rgb(26,38,61);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,210)">
+                <path d="M114.24,79.91L79.91,114.24C74.51,119.64 65.73,119.64 60.33,114.24L26,79.91C20.6,74.51 20.6,65.73 26,60.33L60.33,26C65.73,20.6 74.51,20.6 79.91,26L114.24,60.33C119.64,65.73 119.64,74.51 114.24,79.91Z" style="fill:rgb(148,192,255);fill-rule:nonzero;"/>
+                <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-53.8,129.88)">
+                    <path d="M168,105.6L168,154.16C168,161.799 161.799,168 154.16,168L105.6,168C97.961,168 91.76,161.799 91.76,154.16L91.76,105.6C91.76,97.961 97.961,91.76 105.6,91.76L154.16,91.76C161.799,91.76 168,97.961 168,105.6Z" style="fill:rgb(140,232,244);"/>
                 </g>
-                <g transform="matrix(1,0,0,1,0,210)">
-                    <path d="M114.24,79.91L79.91,114.24C74.51,119.64 65.73,119.64 60.33,114.24L26,79.91C20.6,74.51 20.6,65.73 26,60.33L60.33,26C65.73,20.6 74.51,20.6 79.91,26L114.24,60.33C119.64,65.73 119.64,74.51 114.24,79.91Z" style="fill:rgb(148,192,255);fill-rule:nonzero;"/>
-                    <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-53.8,129.88)">
-                        <path d="M168,105.6L168,154.16C168,161.799 161.799,168 154.16,168L105.6,168C97.961,168 91.76,161.799 91.76,154.16L91.76,105.6C91.76,97.961 97.961,91.76 105.6,91.76L154.16,91.76C161.799,91.76 168,97.961 168,105.6Z" style="fill:rgb(140,232,244);"/>
-                    </g>
-                    <path d="M100.26,82.29L117.79,99.82" style="fill:none;fill-rule:nonzero;stroke:rgb(26,38,61);stroke-width:8.27px;"/>
-                    <path d="M82.29,100.26L99.82,117.79" style="fill:none;fill-rule:nonzero;stroke:rgb(26,38,61);stroke-width:8.27px;"/>
-                    <g transform="matrix(1,0,0,1,55.65,84.28)">
-                        <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
-                    </g>
-                    <g transform="matrix(1,0,0,1,115.41,147.69)">
-                        <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
-                    </g>
+                <path d="M100.26,82.29L117.79,99.82" style="fill:none;fill-rule:nonzero;stroke:rgb(26,38,61);stroke-width:8.27px;"/>
+                <path d="M82.29,100.26L99.82,117.79" style="fill:none;fill-rule:nonzero;stroke:rgb(26,38,61);stroke-width:8.27px;"/>
+                <g transform="matrix(1,0,0,1,55.65,84.28)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
+                </g>
+                <g transform="matrix(1,0,0,1,115.41,147.69)">
+                    <text x="0px" y="0px" style="font-family:'FredokaOne-Regular', 'Fredoka One';font-size:47.51px;fill:rgb(26,38,61);">2</text>
                 </g>
             </g>
         </g>
